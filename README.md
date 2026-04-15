@@ -24,5 +24,3 @@ The application supports drawing and erasing cells, stepping through generations
 ## Purpose
 
 This project was developed primarily for learning purposes, with the aim of exploring cellular automata concepts and gaining practical experience with Lua and LÖVE2D.
-
-As it was created some time ago, the codebase may not reflect current best practices and is not actively maintained. It is preserved as a reference and demonstration of early experimentation with interactive simulations.
